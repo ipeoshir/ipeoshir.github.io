@@ -1,5 +1,3 @@
-# Rodrigo Oshiro
-
 Project Contributions:
 ---
  - [https://rodrigooshiro.github.io/machine-learning/](https://rodrigooshiro.github.io/machine-learning/)
