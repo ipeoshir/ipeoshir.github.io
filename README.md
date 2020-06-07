@@ -8,6 +8,7 @@ Social Profiles:
 ---
  - [https://www.linkedin.com/in/rodrigooshiro/](https://www.linkedin.com/in/rodrigooshiro/)
  - [https://twitter.com/rodrigooshiro/](https://twitter.com/rodrigooshiro/)
+ - [https://rodrigooshiro.github.io/blog/](https://rodrigooshiro.github.io/blog/)
  - [http://rodrigooshiro.blogspot.com/](http://rodrigooshiro.blogspot.com/)
 
 Bookmarks:
